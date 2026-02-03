@@ -65,10 +65,5 @@ Date, Category, Description, Amount
 
 -How to Run the Project
 
-Make sure Python 3 is installed
-
-Open terminal in project folder
-
-Run the command:
-
-python project.py
+open folder in Vscode 
+run code 
