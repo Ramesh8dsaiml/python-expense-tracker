@@ -70,5 +70,4 @@ run code
 
 
 show otput :
-<img width="1920" height="1200" alt="{972D9F15-1B61-4F75-B33D-AA37679FE9A3}" src="https://github.com/user-attachments/assets/f54e78f6-dc81-407c-9f84-42f8cf7e94ca" />
-
+<img width="798" height="1005" alt="{96818E95-AC02-40B2-ACFC-DAE5FD94FE4F}" src="https://github.com/user-attachments/assets/3e0a4dba-6077-4cfd-9be0-c50a1ddd8f1e" />
