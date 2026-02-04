@@ -67,3 +67,8 @@ Date, Category, Description, Amount
 
 open folder in Vscode 
 run code 
+
+
+show otput :
+<img width="1920" height="1200" alt="{972D9F15-1B61-4F75-B33D-AA37679FE9A3}" src="https://github.com/user-attachments/assets/f54e78f6-dc81-407c-9f84-42f8cf7e94ca" />
+
